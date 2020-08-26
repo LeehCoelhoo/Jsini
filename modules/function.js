@@ -25,5 +25,5 @@ const somar = function (x,y){
   var z= somar(4,6);
   console.log(z);
 
-
+module.exports = {modulo};
 

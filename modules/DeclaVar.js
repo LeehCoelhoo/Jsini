@@ -10,3 +10,4 @@ console.log(typeof(logica));
 var qualquer;
 console.log(qualquer);
 console.log(typeof(qualquer));
+module.exports = {modulo}
